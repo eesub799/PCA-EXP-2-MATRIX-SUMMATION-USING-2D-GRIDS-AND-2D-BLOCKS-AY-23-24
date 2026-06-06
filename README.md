@@ -15,7 +15,7 @@ Google Colab with NVCC Compiler
 
 
 
-
+ 
 ## PROCEDURE:
 
 1.	Initialize the data: Generate random data for two input arrays using the initialData function.
